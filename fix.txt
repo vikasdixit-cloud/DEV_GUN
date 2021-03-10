@@ -1,0 +1,2 @@
+hi this is entry in first branch.
+this was edit in initial branch
