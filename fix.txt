@@ -1,1 +1,7 @@
+
 hi this edition was done in initial_master
+
+
+hi this is entry in first branch.
+
+this was edit in initial branch
